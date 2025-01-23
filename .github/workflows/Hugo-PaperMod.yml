@@ -104,7 +104,7 @@ jobs:
           fi
 
           cat > config.toml << EOL
-          baseURL = "https://$owner.github.io"
+          baseURL = "https://1mie254q.github.io"
           languageCode = "zh-cn"
           title = "${{ github.repository_owner }}"
           theme = "PaperMod"
